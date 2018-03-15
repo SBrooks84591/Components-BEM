@@ -1,0 +1,13 @@
+.Section {
+    border: black solid 3px;
+}
+
+.Section__header {
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+.Section--content {
+    display: flex;
+    justify-content: space-between;
+}
