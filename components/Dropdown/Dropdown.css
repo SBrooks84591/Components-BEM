@@ -1,9 +1,5 @@
 .Dropdown {
-<<<<<<< HEAD
     z-index: 5;
-=======
-    z-index:5;
->>>>>>> f5d742a054db865922f99644f05c77fed754a4b2
     display: inline-block;
     position: absolute;
 }
@@ -26,13 +22,8 @@
 .Dropdown__link {
     display: inline-block;
     margin-bottom: 10px;
-<<<<<<< HEAD
-
-}
-=======
 }
 
->>>>>>> f5d742a054db865922f99644f05c77fed754a4b2
 .Dropdown--active .Dropdown__content {
     display: block;
 }

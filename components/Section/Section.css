@@ -1,5 +1,4 @@
 .Section {
-<<<<<<< HEAD
         box-sizing: border-box;
         display: inline-block;
         clear: both;
@@ -15,21 +14,6 @@
 
 .Section--bordered:first-of-type {
     border-top: 2.5px solid black;
-=======
-    box-sizing: border-box;
-    display: inline-block;
-    clear: both;
-    width: 100%;
-    margin: 0;
-    padding: 20px;
-    position: relative;
-
-}
-
-.Section--bordered {
-    border: 2.5px solid black;
-    border-top: none;
->>>>>>> f5d742a054db865922f99644f05c77fed754a4b2
 }
 
 .Section--bordered:first-of-type {
@@ -42,7 +26,6 @@ border-top: 2.5px solid black;
     font-size: 2.5em;
     font-weight: bold;
 }
-<<<<<<< HEAD
 
 @media (min-width: 600px) {
     .Section--half {
@@ -52,5 +35,3 @@ border-top: 2.5px solid black;
         padding: 20px;
     }
 }
-=======
->>>>>>> f5d742a054db865922f99644f05c77fed754a4b2
